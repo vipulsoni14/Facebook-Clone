@@ -1,0 +1,7 @@
+body{
+    background-color: #18191a;
+    overflow-x: hidden;
+}
+.app_page{
+    display: flex;
+}
